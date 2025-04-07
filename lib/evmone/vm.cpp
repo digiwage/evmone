@@ -12,7 +12,9 @@
 #include <cassert>
 #include <iostream>
 
+#ifdef EVM_BUILD
 #define PROJECT_VERSION "1.0.0"
+#endif
 
 namespace evmone
 {
