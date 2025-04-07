@@ -12,6 +12,8 @@
 #include <cassert>
 #include <iostream>
 
+#define PROJECT_VERSION "1.0.0"
+
 namespace evmone
 {
 namespace
