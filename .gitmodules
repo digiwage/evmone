@@ -4,3 +4,4 @@
 [submodule "evmc"]
 	path = evmc
 	url = https://github.com/digiwage/evmc.git
+	branch = main
